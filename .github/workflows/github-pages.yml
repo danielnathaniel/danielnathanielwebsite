@@ -3,6 +3,9 @@ name: GitHub Pages
 on:
   push:
     branches: [ main ]
+permissions:
+  pages: write      # to deploy to Pages
+  id-token: write 
 jobs:
   deployment:
     runs-on: ubuntu-latest
