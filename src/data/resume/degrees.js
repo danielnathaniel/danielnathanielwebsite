@@ -1,15 +1,9 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
-  },
-  {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'General Assembly',
+    degree: 'Certificate of Completion',
+    link: 'https://generalassemb.ly/education/software-engineering-immersive?ga_campaign=immersive-remote&ga_variation=sei-tile',
+    year: 2022,
   },
 ];
 
