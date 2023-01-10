@@ -21,6 +21,17 @@ const data = [
     //   + ''
 
   },
+  {
+    title: 'Restaurant Menu',
+    subtitle: '',
+    link: 'https://restaurantmenu.danielnathaniel.com',
+    image: '/images/projects/harvest.jpg',
+    // date: '2015-09-20',
+    // desc:
+    //   ' '
+    //   + ''
+
+  },
 ];
 
 export default data;
