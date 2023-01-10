@@ -1,5 +1,17 @@
 const positions = [
   {
+    company: 'Grub Runner LLC',
+    position: 'Software Engineer Intern',
+    link: 'https://www.linkedin.com/company/grub-runner/',
+    daterange: 'October 2022 - Present',
+    points: [
+      'Collaborated with multiple developers in a fast-paced, agile and cross-functional team',
+      'Assisted in designing UI.',
+      'Created training module for food runners.',
+      'Built and maintained reusable React components',
+    ],
+  },
+  {
     company: 'XPRS Capital',
     position: 'Head of Credit',
     link: 'https://www.xprscapital.com/',
@@ -8,17 +20,6 @@ const positions = [
       'Managed all credit for the online lending platform',
       'Underwrote 100MM of loan applications resulting in high quality debtors.',
       'Maintained an average default rate of 5%, below the 8% average for the industry.',
-    ],
-  },
-  {
-    company: 'Grub Runner LLC',
-    position: 'Junior Software Engineer',
-    link: 'https://www.linkedin.com/company/grub-runner/',
-    daterange: 'July 2014 - April 2016',
-    points: [
-      'Assisted in programming and designing UI.',
-      'Created training module for food runners.',
-      'Used HTML, JS and CSS to update client facing UI',
     ],
   },
 ];

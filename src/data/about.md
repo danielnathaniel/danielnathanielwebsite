@@ -25,7 +25,7 @@ I am enrolled in [Udemy's] (https://support.udemy.com/hc/en-us/articles/15000027
 # I dream of
 
 - being a positive example for what I want to see in others.
-- eliminating childhood hunger
-- enabling others to see and utilize their potential .
+- eliminating childhood hunger.
+- enabling others to see and utilize their potential.
 - improving myself.
 - getting job offers from you reviewing this.
