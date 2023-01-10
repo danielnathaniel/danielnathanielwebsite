@@ -16,12 +16,12 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Welcome 👋🏽. Read more about me <Link to="/about">here</Link>,
+      <p> Welcome 👋🏽. Read more about me <Link to="/about">here </Link>
         or you can find more at my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+        <Link to="/resume"> resume</Link>, {' '}
+        <Link to="/projects"> projects</Link>, {' '}
+        <Link to="/stats"> site statistics</Link> {' '}
+        or <Link to="/contact">contact me.</Link>
       </p>
       <p> Source code available <a href="https://github.com/danielnathaniel/danielnathanielwebsite">here</a>.</p>
     </article>

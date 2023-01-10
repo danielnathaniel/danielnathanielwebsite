@@ -5,12 +5,12 @@ I am a business oriented software developer. I started my career in business/ban
 
 # Currently
 
-I am enrolled in [Udemy's](https://support.udemy.com/hc/en-us/articles/1500002721401) monthly subscription which allows me to learn new programming languages, frameworks and to stay sharp on my programming skills. I have dozens of ideas for applications such as a clone of [Clearview](https://www.clearview.ai/) [AI](https://www.clearview.ai/) and a dashboard for medical doctors to see a history of questions and answers to one another.
+I am working at Grub Runner/Text2Order as an intern where I continue to learn about ReactJS, Python and more. I am also enrolled in [Udemy's monthly subscription](https://support.udemy.com/hc/en-us/articles/1500002721401) which allows me to learn new programming languages, frameworks and to stay sharp on my programming skills. I have dozens of ideas for applications such as a clone of [Clearview AI](https://www.clearview.ai/) and a dashboard for medical doctors to see a history of questions and answers to one another.
 
 
 # Some history
 
-I officially changed careers in May 2023. I joined a software engineering immersive at General Assembly in May 2023 to become a full stack software engineer. During my coding bootcamp I was struck by a car breaking multiple facial bones and requiring stitches and other medical care for other injuries including a concussion. During this time I did not quit my coding bootcamp because I am incredibly motivated to code. 
+I officially changed careers in May 2022. I joined a software engineering immersive at General Assembly in May 2022 to become a full stack software engineer. During my coding bootcamp I was struck by a car breaking multiple facial bones and requiring stitches and other medical care for other injuries including a concussion. During this time I did not quit my coding bootcamp because I am incredibly motivated to code. 
 
 # I like
 
@@ -24,8 +24,8 @@ I officially changed careers in May 2023. I joined a software engineering immers
 
 # I dream of
 
-- being a positive example for what I want to see in others.
-- eliminating childhood hunger.
-- enabling others to see and utilize their potential.
-- improving myself.
-- getting job offers from you reviewing this.
+- Being a positive example for what I want to see in others.
+- Eliminating childhood hunger.
+- Enabling others to see and utilize their potential.
+- Improving myself.
+- Getting job offers from you reviewing this 😉.
