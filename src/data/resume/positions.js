@@ -1,9 +1,9 @@
 const positions = [
   {
     company: 'Grub Runner LLC',
-    position: 'Software Engineer Intern',
+    position: 'Junior Software Engineer',
     link: 'https://www.linkedin.com/company/grub-runner/',
-    daterange: 'October 2022 - Present',
+    daterange: 'September 2022 - Present',
     points: [
       'Collaborated with multiple developers in a fast-paced, agile and cross-functional team',
       'Assisted in designing UI',
