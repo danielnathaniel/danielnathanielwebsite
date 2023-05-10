@@ -5,6 +5,7 @@ const data = [
     subtitle: '2015 BVP Hackathon',
     link: 'https://cocktails.danielnathaniel.com',
     image: '/images/projects/cocktails.jpg',
+    github: 'https://github.com/danielnathaniel/cocktails',
     // date: '2015-09-20',
     // desc:
     //   ' '
@@ -15,6 +16,7 @@ const data = [
     subtitle: '',
     link: 'https://grocery.danielnathaniel.com',
     image: '/images/projects/harvest.jpg',
+    github: 'https://github.com/danielnathaniel/grocery',
     // date: '2015-09-20',
     // desc:
     //   ' '
@@ -26,6 +28,7 @@ const data = [
     subtitle: '',
     link: 'https://restaurantmenu.danielnathaniel.com',
     image: '/images/projects/harvest.jpg',
+    github: 'https://github.com/danielnathaniel/restaurantmenu',
     // date: '2015-09-20',
     // desc:
     //   ' '
