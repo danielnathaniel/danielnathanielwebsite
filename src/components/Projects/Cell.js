@@ -7,7 +7,7 @@ const Cell = ({ data }) => (
     <article className="mini-post">
       <header>
         <h3><a href={data.link}>{data.title}</a></h3>
-        <h4><a href={data.link} style={{ color: '#888', textDecoration: 'none', fontFamily: 'Arial, sans-serif' }}>{'<\\/> source code'}</a></h4>
+        <h4><a href={data.link}>{'<\\/> source code'}</a></h4>
         {/* <time className="published">{dayjs(data.date).format('MMMM, YYYY')}</time> */}
       </header>
       {/* <a href={data.link} className="image">
