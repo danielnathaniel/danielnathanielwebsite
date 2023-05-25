@@ -1,8 +1,8 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Cocktails',
-    subtitle: '2015 BVP Hackathon',
+    title: 'CocktailCraft',
+    subtitle: '',
     link: 'https://cocktails.danielnathaniel.com',
     image: '/images/projects/cocktails.jpg',
     github: 'https://github.com/danielnathaniel/cocktails',
@@ -12,7 +12,7 @@ const data = [
     //   + ''
   },
   {
-    title: 'Grocery',
+    title: 'PantryPal',
     subtitle: '',
     link: 'https://grocery.danielnathaniel.com',
     image: '/images/projects/harvest.jpg',
@@ -24,11 +24,11 @@ const data = [
 
   },
   {
-    title: 'Restaurant Menu',
+    title: 'TechTrove',
     subtitle: '',
-    link: 'https://restaurantmenu.danielnathaniel.com',
+    link: 'https://commerce-frontend-jtqsn.ondigitalocean.app/',
     image: '/images/projects/harvest.jpg',
-    github: 'https://github.com/danielnathaniel/restaurantmenu',
+    github: 'https://commerce.home.danielnathaniel.com/',
     // date: '2015-09-20',
     // desc:
     //   ' '
