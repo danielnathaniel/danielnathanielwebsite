@@ -26,9 +26,9 @@ const data = [
   {
     title: 'TechTrove',
     subtitle: '',
-    link: 'https://commerce-frontend-jtqsn.ondigitalocean.app/',
+    link: 'https://commerce.home.danielnathaniel.com/',
     image: '/images/projects/harvest.jpg',
-    github: 'https://commerce.home.danielnathaniel.com/',
+    github: 'https://github.com/danielnathaniel/Commerce-Frontend',
     // date: '2015-09-20',
     // desc:
     //   ' '
